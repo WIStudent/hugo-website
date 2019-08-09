@@ -16,7 +16,7 @@ If you have a Wordpress website to document some projects you worked on but rare
 
 *   A static website can be put under version control.
     
-    With a static website you don't have to worry about managing database backups anymore. Just put your files in a git repository. If your latest changes broke something, just revert them.
+    With a static website you don't have to worry about managing database backups anymore. Just put your files in a [git repository](https://github.com/WIStudent/hugo-website). If your latest changes broke something, just revert them.
 
 *   A static website can be redeployed easily.
 
