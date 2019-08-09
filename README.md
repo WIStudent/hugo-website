@@ -1,2 +1,2 @@
 # hugo-website
-hugo files for [hugo.tobiastrumm.de](https://tobiastrumm.de) website.
+hugo files for [tobiastrumm.de](https://tobiastrumm.de) website.
