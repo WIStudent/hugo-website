@@ -1,4 +1,4 @@
-baseURL = "//tobiastrumm.de/"
+baseURL = "https://tobiastrumm.de/"
 languageCode = "en-en"
 theme = "hugo-coder"
 title = "Tobias Trumm"
