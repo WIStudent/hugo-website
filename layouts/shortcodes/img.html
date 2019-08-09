@@ -1,0 +1,4 @@
+{{ $src := .Page.Resources.GetMatch (printf "*%s*" (.Get "src")) }}
+{{ $alt := .Get "alt" }}
+{{ $image := ($src.Resize "860x Gaussian") }}
+<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ $alt }}">

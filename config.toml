@@ -1,0 +1,22 @@
+baseURL = "//hugo.tobiastrumm.de/"
+languageCode = "en-en"
+theme = "hugo-coder"
+title = "Tobias Trumm"
+defaultcontentlanguage = "en"
+
+[params]
+    author = "Tobias Trumm"
+    info = "Software Developer"
+    description = "Tobias Trumm's personal website"
+    keywords = "blog,developer,personal,tobias trumm,software"
+
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/WIStudent"
+
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/posts/"
