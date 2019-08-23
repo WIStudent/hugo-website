@@ -13,7 +13,7 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - name: build
-      uses: uses: peaceiris/actions-hugo@v0.57.2
+      uses: peaceiris/actions-hugo@v0.57.2
     - name: deploy
       uses: SamKirkland/FTP-Deploy-Action@1.0.0
       env:
